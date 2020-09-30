@@ -22,7 +22,7 @@ Each notebook is commented throughout to guide reproducibility. The data in this
 To replicate the conda environment used to develop and run the code, see the tensorflowML.yml file in the repository. This contains all Python packages used and their corresponding versions. This yml file can be directly imported into Conda to reproduce the environment used in this study.
 
 # References
-Many thanks to those who provided resources and prior work to leverage in this study. More specific referencing is completed in each notebook. 
+Many thanks to those who provided resources and prior work to leverage in my notebooks and scripts. More specific referencing is completed in each notebook. 
 
 (1) Data Library - Kenneth R. French - https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html - 2020
 
