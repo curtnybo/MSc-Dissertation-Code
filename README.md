@@ -4,7 +4,7 @@
 ### Curtis Nybo
 ### MSc Quantitative Finance Dissertation 2020
 
-This repository contains the code developed to complete my MSc Dissertation. 
+This repository contains the code developed for my MSc Dissertation. 
 
 # The Data
 The data is retrieved from the Kenneth R. French data library (1). The dataset contains all U.S stocks, sorted into five sectors by SIC code. The datasets I have used in this study are provided in the 'Data' folder. The folder contains the original dataset and a summary of the dataset, and each specific has been extracted to its own file. 
