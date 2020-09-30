@@ -1,6 +1,6 @@
 # MSc Dissertation Code ReadMe
 
-## Sector Volatility Prediction Performance Using GARCH Models and Artificial Neural Networks 
+## Sector Volatility Prediction Performance Using GARCH Models and Artificial Neural Networks
 ### Curtis Nybo
 ### MSc Quantitative Finance Dissertation 2020
 
@@ -17,11 +17,11 @@ The ANN notebooks are comprised of one notebook per architecture (5,1,1), (5,12,
 The GARCH notebooks are comprised of one notebook for the GARCH(p,q), GARCH(1,1), and EGARCH(p,q) model.
 
  ## How to use
-Each notebook is commented thorughout to guide reproducibility. The data in this repository needs to be placed in a local directory, and then the code needs to be changed to point to that directory. The script should then read in the data and follow the same computations in this study. 
+Each notebook is commented throughout to guide reproducibility. The data in this repository needs to be placed in a local directory, then the code needs to be changed to point to that directory. The script should then read in the data and follow the same computations in this study. 
 
 To replicate the conda environment used to develop and run the code, see the tensorflowML.yml file in the repository. This contains all Python packages used and their corresponding versions. This yml file can be directly imported into Conda to reproduce the environment used in this study.
 
-# Code References
+# References
 Many thanks to those who provided resources and prior work to leverage in this study. More specific referencing is completed in each notebook. 
 
 (1) Data Library - Kenneth R. French - https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html - 2020
